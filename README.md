@@ -3,4 +3,6 @@ The Dutch website Apenzijncool (monkeys are cool) was the first website I have e
 
 Besides the main website, Apenzijncool also had a few sub websites. For example, there was a blog where I and a few other people posted stories we wrote (about monkeys, of course). It also had a forum and a chatbox, but those weren't as successful as I had hoped them to be.
 
-This is a restored version of the site. Unfortunately, it is quite unstable. A lot of links probably won't work anymore. 
+This is a restored version of the site. Unfortunately, it is quite unstable. A lot of links probably won't work anymore.  
+
+http://ricardovogel.nl/apen/
